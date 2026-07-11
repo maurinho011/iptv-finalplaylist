@@ -1,0 +1,75 @@
+#EXTM3U
+
+# ============================================================
+# INDONESIA
+# ============================================================
+
+#EXTINF:-1 tvg-id="TVRI.id@HD" group-title="Indonesia",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" group-title="Indonesia",TVRI Sport
+https://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id@HD" group-title="Indonesia",RCTI HD
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Indonesia",MNCTV
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-id="GTV.id" group-title="Indonesia",GTV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://203.77.246.2:443/udp/239.1.1.108:5000
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="Indonesia",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://203.77.246.2:443/udp/239.1.1.110:5000
+
+#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Indonesia",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="Indonesia",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Indonesia",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia",tvOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="Indonesia",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="Indonesia",Kompas TV Alt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="Indonesia",CNN Indonesia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Indonesia",RTV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Indonesia",Rajawali TV
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="JTV.id@SD" group-title="Indonesia",JTV
+http://122.248.43.242:1935/JTVSURABAYA/definst/myStream/playlist.m3u8
