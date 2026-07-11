@@ -1,0 +1,265 @@
+#EXTM3U
+
+# ==================================================
+# SPORTS - INDONESIA
+# ==================================================
+
+#EXTINF:-1 tvg-id="TVRISport.id" group-title="Sports | Indonesia",TVRI Sport
+https://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
+
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Sports | Indonesia",Band Sports
+http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" group-title="Sports | Indonesia",DeporTV
+https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
+
+# ==================================================
+# SPORTS - beIN
+# ==================================================
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" group-title="Sports | beIN",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr@SD" group-title="Sports | beIN",beIN Sports Haber
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+# ==================================================
+# FOOTBALL - TURKEY
+# ==================================================
+
+#EXTINF:-1 tvg-id="TRT1.tr@SD" group-title="Football",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="Football",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+# ==================================================
+# FOOTBALL - UNITED KINGDOM
+# ==================================================
+
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="Football",BBC One HD
+http://193.46.58.239:8080/BBCOneHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="Football",BBC Two HD
+http://193.46.58.239:8080/BBCTwoHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="Football",ITV1
+http://80.194.62.172:50002/stream/channelid/95929545
+
+#EXTINF:-1 tvg-id="talkSPORT.uk@SD" group-title="Football",talkSPORT
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+# ==================================================
+# FOOTBALL - GERMANY
+# ==================================================
+
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="Football",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="MDF1.de@SD" group-title="Football",MDF.1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+
+# ==================================================
+# FOOTBALL - FRANCE
+# ==================================================
+
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="Football",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr@SD" group-title="Football",France 2
+http://69.64.57.208/france2/mono.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr@SD" group-title="Football",L'Equipe
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+# ==================================================
+# FOOTBALL - ITALY
+# ==================================================
+
+#EXTINF:-1 tvg-id="Rai1.it@HD" group-title="Football",Rai 1 HD
+https://srv1.adriatelekom.com/Rai1/index.m3u8
+
+#EXTINF:-1 group-title="Football",Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+
+# ==================================================
+# FOOTBALL - SPAIN
+# ==================================================
+
+#EXTINF:-1 tvg-id="La1.es@SD" group-title="Football",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+# ==================================================
+# FOOTBALL - ARGENTINA
+# ==================================================
+
+#EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" group-title="Football",TV Publica
+https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" group-title="Football",DeporTV
+https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
+
+# ==================================================
+# FOOTBALL - BRAZIL
+# ==================================================
+
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" group-title="Football",TV Globo
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Football",Band Sports
+http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
+
+# ==================================================
+# FOOTBALL - MEXICO
+# ==================================================
+
+#EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD" group-title="Football",Canal 5
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" group-title="Football",Azteca 7
+http://45.189.62.33:8002/play/a0fm/index.m3u8
+# ==================================================
+# CLUB TV
+# ==================================================
+
+#EXTINF:-1 tvg-id="MUTV.uk@SD" group-title="Club TV",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" group-title="Club TV",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="BarcaTV.es@SD" group-title="Club TV",Barça TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+# ==================================================
+# FIFA & OLYMPIC
+# ==================================================
+
+#EXTINF:-1 group-title="Sports | FIFA",FIFA+
+https://a.jsrdn.com/broadcast/4dcb05c0ce/+0000/high/c.m3u8
+
+#EXTINF:-1 group-title="Sports | Olympic",Olympic Channel
+https://ott-cdn.ucom.am/s83/index.m3u8
+
+# ==================================================
+# SPORTS INTERNATIONAL
+# ==================================================
+
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbtvlive.akamaized.net/hls/live/590964/boRBTV/master.m3u8
+
+#EXTINF:-1 group-title="Sports",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Fuel TV
+https://amg01201-fueltv-fueltv-ono-xh8ij.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Outside TV
+https://outsidetv-roku.amagi.tv/playlist.m3u8
+
+# =========================
+# FREE SPORTS
+# =========================
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",FIFA+
+https://a.jsrdn.com/broadcast/4f35db5b88/+0000/high/c.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport Italia
+https://5f22d76e220e1.streamlock.net/sportitalia/sportitalia/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Sports",Adventure Sports TV
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="Sports",MAV TV
+https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",PowerNation
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",World Poker Tour
+https://dai.google.com/linear/hls/event/rmB0AiJqTjSQQiV0Q8UQvw/master.m3u8
+
+#EXTINF:-1 group-title="Sports",Surf Channel
+https://edge01.streamonweb.net/surfchannel/surfchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Outside TV
+https://outsidetv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Edge Sport
+https://edgesport-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Padel Time TV
+https://5f22d76e220e1.streamlock.net/padeltime/padeltime/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Horse & Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=577
+
+#EXTINF:-1 group-title="Sports",Billiard TV
+https://ott-cdn.ucom.am/s36/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",SportsGrid 2
+https://sportsgrid2-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Adventure Sports TV
+https://junction-live.astreem.in/adventure/master.m3u8
+
+#EXTINF:-1 group-title="Sports",World Poker Tour
+https://d3wo5wojvuv7l.cloudfront.net/out/v1/master.m3u8
+
+# ==================================================
+# MOTORSPORT
+# ==================================================
+
+#EXTINF:-1 group-title="Motorsport",Motorvision TV
+https://motorvisiontv-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Motorsport",MAVTV Select
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Motorsport",Racing America
+https://racingamerica-samsung.amagi.tv/playlist.m3u8
+
+# ==================================================
+# FIGHT SPORTS
+# ==================================================
+
+#EXTINF:-1 group-title="Fight",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Fight",Combat Go
+https://cdn.combatgo.tv/live/playlist.m3u8
+
+# ==================================================
+# TENNIS
+# ==================================================
+
+#EXTINF:-1 group-title="Tennis",Tennis Channel 2
+https://tennischannel-intl-samsung.amagi.tv/playlist.m3u8
+
+# ==================================================
+# RUGBY
+# ==================================================
+
+#EXTINF:-1 group-title="Rugby",RugbyPass TV
+https://rugbypass.tv/live/playlist.m3u8
+
+# ==================================================
+# GOLF
+# ==================================================
+
+#EXTINF:-1 group-title="Golf",GolfPass
+https://golfpass-roku.amagi.tv/playlist.m3u8
