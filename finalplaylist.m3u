@@ -1,0 +1,491 @@
+#EXTM3U
+
+# ============================================================
+# INDONESIA
+# ============================================================
+
+#EXTINF:-1 tvg-id="TVRI.id@HD" group-title="Indonesia",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" group-title="Indonesia",TVRI Sport
+https://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id@HD" group-title="Indonesia",RCTI HD
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="Indonesia",MNCTV
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-id="GTV.id" group-title="Indonesia",GTV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://203.77.246.2:443/udp/239.1.1.108:5000
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="Indonesia",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://203.77.246.2:443/udp/239.1.1.110:5000
+
+#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Indonesia",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="Indonesia",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Indonesia",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia",tvOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="Indonesia",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="Indonesia",Kompas TV Alt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="Indonesia",CNN Indonesia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Indonesia",RTV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Indonesia",Rajawali TV
+#EXTVLCOPT:http-referrer=maxstream.tv/tv-channels
+https://indihuy.streamized.net/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="JTV.id@SD" group-title="Indonesia",JTV
+http://122.248.43.242:1935/JTVSURABAYA/definst/myStream/playlist.m3u8
+
+# =========================
+# FOOTBALL - TURKEY
+# =========================
+#EXTINF:-1 tvg-id="TRT1.tr@SD" group-title="Football",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr@SD" group-title="Football",beIN Sports Haber
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="Football",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+# =========================
+# FOOTBALL - UNITED KINGDOM
+# =========================
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="Football",BBC One HD
+http://193.46.58.239:8080/BBCOneHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="Football",BBC Two HD
+http://193.46.58.239:8080/BBCTwoHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.uk@London" group-title="Football",ITV1
+http://80.194.62.172:50002/stream/channelid/95929545
+
+#EXTINF:-1 tvg-id="MUTV.uk@SD" group-title="Football",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="talkSPORT.uk@SD" group-title="Football",talkSPORT
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+# =========================
+# FOOTBALL - GERMANY
+# =========================
+#EXTINF:-1 tvg-id="DasErste.de@HD" group-title="Football",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="MDF1.de@SD" group-title="Football",MDF.1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+
+# =========================
+# FOOTBALL - FRANCE
+# =========================
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="Football",TF1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://151.80.18.177:86/TF1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr@SD" group-title="Football",France 2
+http://69.64.57.208/france2/mono.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr@SD" group-title="Football",L'Equipe
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+# =========================
+# FOOTBALL - ITALY
+# =========================
+#EXTINF:-1 tvg-id="Rai1.it@HD" group-title="Football",Rai 1 HD
+https://srv1.adriatelekom.com/Rai1/index.m3u8
+
+#EXTINF:-1 group-title="Football",Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+
+# =========================
+# FOOTBALL - SPAIN
+# =========================
+#EXTINF:-1 tvg-id="La1.es@SD" group-title="Football",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" group-title="Club TV",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="BarcaTV.es@SD" group-title="Club TV",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+# =========================
+# FOOTBALL - ARGENTINA
+# =========================
+#EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" group-title="Football",TV Publica
+https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" group-title="Football",DeporTV
+https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
+
+# =========================
+# FOOTBALL - BRAZIL
+# =========================
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" group-title="Football",TV Globo
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Football",Band Sports
+http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
+
+# =========================
+# FOOTBALL - MEXICO
+# =========================
+#EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD" group-title="Football",Canal 5
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" group-title="Football",Azteca 7
+http://45.189.62.33:8002/play/a0fm/index.m3u8
+
+# =========================
+# SPORTS (IPTVLINE FREE)
+# =========================
+
+#EXTINF:-1 group-title="Sports",FIFA+
+https://a.jsrdn.com/broadcast/4dcb05d46c/+0000/c.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS XTRA en Español
+https://bein-esp-xtra.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",MAVTV Select
+https://mavtv-mavtvglobal-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",SportsGrid
+https://sportsgrid-tribalwave.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Outside TV
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",PowerNation
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Adventure Sports TV
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="Sports",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",World Poker Tour
+https://dai.google.com/linear/hls/event/2oA8vK2HQ6CkQ9zYiujpYQ/master.m3u8
+
+#EXTINF:-1 group-title="Sports",PFL MMA
+https://pfl-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Sports",Fuel TV
+https://amg01448-fueltv-fueltv-emea-playout-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Unbeaten
+https://unbeaten-video.akamaized.net/hls/live/2102330/unbeaten/master.m3u8
+
+#EXTINF:-1 group-title="Sports",Billiard TV
+https://billiardtv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Motorvision
+https://motorvision-international-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Surf Channel
+https://wave.playout.3qsdn.com/5b4f9f53-9f2d-4f52-9d64-f80d7b987b5d.m3u8
+
+#EXTINF:-1 group-title="Sports",Tennis Channel 2
+https://tennisplus2-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbtvlive.akamaized.net/hls/live/590964/boRBTV/master.m3u8
+
+# =========================
+# SPORTS EXTRA (FREE)
+# =========================
+
+#EXTINF:-1 tvg-id="FIFAPlus.int" group-title="Sports",FIFA+
+https://a.jsrdn.com/broadcast/4dcb05d46c/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.int" group-title="Sports",Red Bull TV
+https://rbtvlive.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="Unbeaten.us" group-title="Sports",UNBEATEN
+https://unbeaten-streams.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportsStars.fr" group-title="Sports",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="PFLMMA.us" group-title="Sports",PFL MMA
+https://pflmma-amagi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" group-title="Sports",World Poker Tour
+https://d3daiy2k2xw3x5.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SurfChannel.us" group-title="Sports",Surf Channel
+https://srvx1.selftv.video/surfchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EdgeSport.uk" group-title="Sports",Edge Sport
+https://edgesport-rakuten.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="FuelTV.us" group-title="Sports",Fuel TV
+https://amg00773-fueltv-fueltv-lg-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAVTV.us" group-title="Sports",MAVTV Select
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportsGrid.us" group-title="Sports",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HarborSports.us" group-title="Sports",Harbor Sports
+https://linear-47.frequency.stream/mt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" group-title="Sports",Outdoor America
+https://outdooramerica-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.tv" group-title="Sports",Motorvision
+https://motorvision-international-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldBilliards.tv" group-title="Sports",World Billiards TV
+https://59ec5453559f0.streamlock.net/wbttv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseTV.us" group-title="Sports",Horse TV
+https://horse-tv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNation.us" group-title="Sports",PowerNation
+https://powernation-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdventureSportsTV.us" group-title="Sports",Adventure Sports TV
+https://adventure-sports-tv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldRacing.tv" group-title="Sports",World Racing
+https://worldracingtv-samsung.amagi.tv/playlist.m3u8
+
+# =========================
+# NEWS (PART 2A)
+# =========================
+
+#EXTINF:-1 tvg-id="BBCNews.uk@UKHD" group-title="News",BBC News UK HD
+http://45.153.96.44:8001
+
+#EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica" group-title="News",BBC News Latin America
+http://138.121.15.230:9002/BBC-NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="News",BBC News North America
+http://206.212.244.63/14/index.m3u8
+
+#EXTINF:-1 group-title="News",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 group-title="News",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+
+#EXTINF:-1 group-title="News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 group-title="News",France 24 English
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
+#EXTINF:-1 group-title="News",France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="News",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="News",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 group-title="News",BBC Persian
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 group-title="News",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
+
+#EXTINF:-1 group-title="News",VOA TV Africa
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
+#EXTINF:-1 group-title="News",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+
+#EXTINF:-1 group-title="News",Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+
+#EXTINF:-1 group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="News",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="News",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+
+# =========================
+# NEWS (PART 2B)
+# =========================
+
+#EXTINF:-1 group-title="News",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="News",CGTN Russian
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="News",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="News",Euronews English
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="News",TRT World
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:-1 group-title="News",NHK World Japan
+https://nhk.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 group-title="News",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="News",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 group-title="News",CNA International
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+
+#EXTINF:-1 group-title="News",DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 group-title="News",24 Horas
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+
+#EXTINF:-1 group-title="News",3CatInfo
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 group-title="News",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 group-title="News",Belarus 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="News",Press TV English
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 group-title="News",Africanews French
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+# =========================
+# DOCUMENTARY
+# =========================
+
+#EXTINF:-1 group-title="Documentary",National Geographic HD
+http://198.58.104.90:8989/natgeo/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",National Geographic Wild HD
+http://198.58.104.90:8989/natgeowild/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",National Geographic West
+http://206.212.244.63/122/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",National Geographic Wild
+http://206.212.244.63/123/index.m3u8
+
+#EXTINF:-1 group-title="Documentary",National Geographic Latin America
+http://138.186.23.7:8082/NATGEO/index.m3u8
+
+# =========================
+# KIDS / CARTOON
+# =========================
+
+#EXTINF:-1 group-title="Kids",Nickelodeon
+http://206.212.244.63/666/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Disney Channel
+http://206.212.244.63/650/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Disney Junior
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Toon Goggles
+https://stream.toongoggles.com/toongoggles/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",HappyKids TV
+https://happykids-tv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",Duck TV
+https://ducktv.akamaized.net/hls/live/2012734/default/master.m3u8
+
+# =========================
+# ENTERTAINMENT
+# =========================
+
+#EXTINF:-1 group-title="Entertainment",Talking Pictures TV
+http://92.114.85.72:8000/play/a0la
+
+#EXTINF:-1 group-title="Entertainment",Pluto TV Comedy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b8551b95267e2259ecf9/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Nosey
+https://nosey-linear.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",FailArmy
+https://jukin- failarmy-2.plex.wurl.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",People Are Awesome
+https://jukin-peopleareawesome-2.plex.wurl.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",AFV Family
+https://linear-10.frequency.stream/dist/roku/10/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",The Pet Collective
+https://the-pet-collective-international.samsung.wurl.tv/playlist.m3u8
